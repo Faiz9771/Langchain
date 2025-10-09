@@ -1,0 +1,20 @@
+# Core LangChain packages
+langchain==0.1.0
+langchain-core==0.1.0
+langchain-community==0.1.0
+langchain-google-genai==1.0.0
+langchain-ollama==0.1.0
+
+# Web framework
+streamlit==1.29.0
+
+# Environment management
+python-dotenv==1.0.0
+
+# Additional utilities
+pydantic==2.5.0
+typing-extensions==4.8.0
+langserve
+fastapi
+uvicorn
+sse_starlette
