@@ -4,6 +4,7 @@ langchain-core
 langchain-community
 langchain-google-genai
 langchain-ollama
+langchainhub
 
 # Web framework
 streamlit
@@ -19,13 +20,23 @@ fastapi
 uvicorn
 sse_starlette
 
-
+# Jupyter / scraping
 ipykernel
 bs4
+ipywidgets
 
-transformers==4.33.2
-sentence-transformers==2.2.2
+# Transformers and embeddings
+transformers>=4.57.0
+sentence-transformers>=2.3.0
+tokenizers>=0.19.1
+
+# PDF and vector stores
 pypdf
 chromadb
 faiss-cpu
-sentence-transformers
+
+# Knowledge sources
+wikipedia
+arxiv
+
+
