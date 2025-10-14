@@ -1,0 +1,31 @@
+# Core LangChain packages
+langchain
+langchain-core
+langchain-community
+langchain-google-genai
+langchain-ollama
+
+# Web framework
+streamlit
+
+# Environment management
+python-dotenv
+
+# Additional utilities
+pydantic
+typing-extensions
+langserve
+fastapi
+uvicorn
+sse_starlette
+
+
+ipykernel
+bs4
+
+transformers==4.33.2
+sentence-transformers==2.2.2
+pypdf
+chromadb
+faiss-cpu
+sentence-transformers
