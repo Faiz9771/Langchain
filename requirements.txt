@@ -39,4 +39,7 @@ faiss-cpu
 wikipedia
 arxiv
 
-
+# SQL
+SQLAlchemy
+PyMySQL
+mysql-connector-python
