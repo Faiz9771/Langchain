@@ -24,6 +24,7 @@ sse_starlette
 ipykernel
 bs4
 ipywidgets
+jupyter
 
 # Transformers and embeddings
 transformers>=4.57.0
@@ -39,7 +40,24 @@ faiss-cpu
 wikipedia
 arxiv
 
-# SQL
+# SQL and Database
 SQLAlchemy
 PyMySQL
 mysql-connector-python
+pandas
+sqlalchemy-utils
+
+# Power BI Integration (optional)
+powerbiclient
+
+# Data visualization
+matplotlib
+seaborn
+plotly
+
+# Additional utilities for SQL agent
+regex
+
+# Missing packages for LLM PowerBI Notebook
+langchain-community
+sqlalchemy
